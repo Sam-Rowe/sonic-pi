@@ -49,9 +49,14 @@ few dependencies:
 ### 1.1 Install Xcode
 
 Firstly open the App Store and install the latest Xcode (12.1 at the
-time of writing). Also install the command line tools which will give
+time of writing). 
+
+Also install the command line tools which will give
 you access to a compiler necessary to build the GUI and other
-components.
+components. You do this by running the following within a terminal.
+```
+xcode-select --install
+```
 
 
 ### 1.2 Install Homebrew

@@ -80,7 +80,7 @@ Once you have Homebrew installed, pulling in the rest of the
 dependencies is a couple of lines to execute within a terminal:
 
 ```
-brew install qt cmake elixir
+brew install qt cmake elixir pkg-config
 
 ```
 
